@@ -1,4 +1,4 @@
-;print ("Hello guys")
+print ("Hello, guys:D")
  -Hi,I’m @Baol0rd
 - My hobbies:🎮⚽🥋🎸🎶♟️
 - Learning how to code (Python) 
